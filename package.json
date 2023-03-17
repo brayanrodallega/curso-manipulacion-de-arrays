@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/brayanrodallega/curso-manipulacion-de-arrays#readme",
   "dependencies": {
+    "date-fns": "^2.29.3",
     "http-server": "^14.1.1"
   }
 }
